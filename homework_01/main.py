@@ -37,8 +37,9 @@ def filter_numbers(numbers, filter_type):
     (выбор производится передачей дополнительного аргумента)
     """
     if 'odd' in filter_type:
-        return list(filter(lambda x: x % 2 == 0, numbers))
-    elif 'even' in filter_type:
         return list(filter(lambda x: x % 2 == 1, numbers))
+    elif 'even' in filter_type:
+        return list(filter(lambda x: x % 2 == 0, numbers))
     elif 'prime' in filter_type:
         return list(filter(is_prime, numbers))
+
