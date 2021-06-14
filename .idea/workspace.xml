@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e31005-694a-4801-8e36-ea70f7261a0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_02/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_02/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_02/test_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_02/test_car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_02/test_engine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_02/test_plane.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_03/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_03/test_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_04/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_04/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_04/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_05/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_05/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/test_homework_05/test_app.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RunManager" selected="Python.test_main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
