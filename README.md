@@ -1,6 +1,7 @@
 # 05-2021_Homeworks
 ## Kirill Popov. Contact E-mail: kvpopov@lanit.ru
-### Homework results
+### Homeworks
 № of homework | Result(Passed/Failed)
 --------------|----------------------
-1|Waiting
+1|Waiting :hourglass_flowing_sand:
+
