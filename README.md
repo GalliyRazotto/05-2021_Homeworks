@@ -3,5 +3,5 @@
 ### Homeworks
 № of homework | Result(Passed/Failed)
 --------------|----------------------
-1|Waiting :hourglass_flowing_sand:
+1|Passed 	:dart:
 
