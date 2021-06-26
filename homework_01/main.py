@@ -36,9 +36,9 @@ def filter_numbers(numbers, filter_type):
     и возвращает только чётные/нечётные/простые числа
     (выбор производится передачей дополнительного аргумента)
     """
-    if ODD in filter_type:
+    if EVEN in filter_type:
         return list(filter(lambda x: x % 2 == 0, numbers))
-    elif EVEN in filter_type:
+    elif ODD in filter_type:
         return list(filter(lambda x: x % 2 == 1, numbers))
     elif PRIME in filter_type:
         return list(filter(is_prime, numbers))
