@@ -1,10 +1,9 @@
 """
 create dataclass `Engine`
 """
-from dataclasses import dataclass
+from pydantic import BaseModel
 
 
-@dataclass
-class Engine:
+class Engine(BaseModel):
     volume: int
     pistons: int
