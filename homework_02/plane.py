@@ -7,7 +7,7 @@ from homework_02 import exceptions
 
 class Plane(Vehicle):
     def __init__(self, weight, cargo=0):
-        super(Plane, self).__init__(weight)
+        super(Plane, self).__init__()
         self.cargo = cargo
         self.weight = weight
 

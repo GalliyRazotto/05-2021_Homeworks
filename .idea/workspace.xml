@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e31005-694a-4801-8e36-ea70f7261a0a" name="Default Changelist" comment="'odd' replaced ODD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_02/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_02/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_02/plane.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/plane.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager" selected="Python.test">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="05-2021_Homeworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="05-2021_Homeworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_02/base.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_02/car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pip_install" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="05-2021_Homeworks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_02/pip_install.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_02/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,19 +140,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.__init__" />
-      <item itemvalue="Python.base" />
-      <item itemvalue="Python.conftest" />
-      <item itemvalue="Python.pip_install" />
       <item itemvalue="Python.test_main" />
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.car" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.car" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.conftest" />
         <item itemvalue="Python.test_main" />
-        <item itemvalue="Python.pip_install" />
-        <item itemvalue="Python.base" />
       </list>
     </recent_temporary>
   </component>
