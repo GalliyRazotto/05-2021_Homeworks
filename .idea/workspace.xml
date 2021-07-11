@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e31005-694a-4801-8e36-ea70f7261a0a" name="Default Changelist" comment="'odd' replaced ODD">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_02/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_02/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_02/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/car.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_02/plane.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/plane.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
