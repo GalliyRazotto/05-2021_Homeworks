@@ -1,4 +1,4 @@
-from homework_03 import __version__
+from homework_03.homework_03 import __version__
 
 
 def test_version():
