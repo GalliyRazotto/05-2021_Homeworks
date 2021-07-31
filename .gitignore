@@ -115,3 +115,6 @@ dmypy.json
 
 .idea
 Lessons
+
+./homework_03/homework_03/pyproject.toml
+./homework_03/homework_03/poetry.lock
