@@ -5,7 +5,7 @@
 --------------|----------------------
 1|Passed 	:dart:
 2|Passed  :heavy_check_mark:
-3|Waiting  :hourglass_flowing_sand:
+3|Passed  :surfer:
 4|Waiting  :hourglass_flowing_sand:
 5|Waiting  :hourglass_flowing_sand:
 6|Waiting  :hourglass_flowing_sand:
