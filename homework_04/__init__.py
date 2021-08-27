@@ -1,7 +1,7 @@
 from . import models, jsonplaceholder_requests, main
 
-__all__ = [
+_all_ = (
     "models",
     "jsonplaceholder_requests",
     "main",
-]
+)
