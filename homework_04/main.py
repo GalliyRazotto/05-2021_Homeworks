@@ -16,7 +16,7 @@
 import asyncio
 from sqlalchemy.ext.asyncio import AsyncSession
 from models import User, Post, engine, Session, Base
-from jsonplaceholder_requests import fetch_users_data, fetch_posts_data
+from homework_04.jsonplaceholder_requests import fetch_users_data, fetch_posts_data
 from typing import List, Dict
 
 
