@@ -1,5 +1,4 @@
-from . import main
-from .homework_04 import jsonplaceholder_requests, models
+from . import jsonplaceholder_requests, main, models
 
 _all_ = (
     "models",
