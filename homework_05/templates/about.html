@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    About Page
+{% endblock %}
+
+
+{% block body %}
+    <h1 class="display-4">Homeworks</h1>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Homework theme</th>
+          <th scope="col">State</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td>Work with functions</td>
+          <td>Passed</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>Dataclasses</td>
+          <td>Passed</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>Docker</td>
+          <td>Passed</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td>Async working with DB</td>
+          <td>Passed</td>
+        </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td>Frontend base</td>
+          <td>Waiting</td>
+        </tr>
+      </tbody>
+    </table>
+{% endblock %}
