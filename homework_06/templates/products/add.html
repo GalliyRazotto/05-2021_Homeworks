@@ -1,0 +1,20 @@
+{% extends 'products/base.html' %}
+
+{% block title %}
+    Add product
+{% endblock %}
+
+
+{% block body %}
+
+        <h3>Add new product</h3>
+
+            <form method="post">
+                <div class="form-floating">
+                    <input id="Product-name-id" class="form-control" name="product-name" type="text" required placeholder="Product name">
+                    <label for="Product-name-id">Product name here:</label>
+                    <button id="add_button" type="submit" class="btn btn-outline-dark">Add</button>
+                </div>
+            </form>
+
+{% endblock %}

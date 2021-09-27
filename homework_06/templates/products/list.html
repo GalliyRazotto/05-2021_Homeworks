@@ -1,0 +1,20 @@
+{% extends 'products/base.html' %}
+{% block title %}
+    Products title
+{% endblock %}
+
+
+{% block body %}
+    <div>
+        <ul>
+            {% for product in products %}
+                <li>
+                    <a href="{{ url_for('products_app.detail', product_id=product.id) }}">
+                    {{ product.name }} #{{ product.id }} {{ product.created_at.strftime('%c') }}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+        <a href="{{ url_for('products_app.add')}}">Add new product</a>
+    </div>
+{% endblock %}
