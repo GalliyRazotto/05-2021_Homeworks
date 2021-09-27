@@ -7,7 +7,7 @@
 2|Passed  :heavy_check_mark:
 3|Passed  :surfer:
 4|Passed  :thumbsup:
-5|Waiting  :hourglass_flowing_sand:
+5|Passed  :heavy_check_mark:
 6|Waiting  :hourglass_flowing_sand:
 7|Waiting  :hourglass_flowing_sand:
 8|Waiting  :hourglass_flowing_sand:
