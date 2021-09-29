@@ -8,6 +8,6 @@
 3|Passed  :surfer:
 4|Passed  :thumbsup:
 5|Passed  :heavy_check_mark:
-6|Waiting  :hourglass_flowing_sand:
+6|Waiting  :heavy_check_mark:
 7|Waiting  :hourglass_flowing_sand:
 8|Waiting  :hourglass_flowing_sand:
