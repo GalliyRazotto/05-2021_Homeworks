@@ -18,7 +18,7 @@ from django.urls import path
 import Employees.views as pages
 
 urlpatterns = [
-    path('', pages.index_persons, name='list'),
-    path('<int:person_id>/', pages.detailed_view, name='detail'),
+    path('persons/', pages.PersonList.as_view(), name='list'),
+    path('<int:pk>/', pages.PersonView.as_view(), name='detail'),
     path('admin/', admin.site.urls),
 ]

@@ -1,4 +1,6 @@
 from django.shortcuts import render
+from django.views.generic import ListView, DetailView
+
 from Employees.models import Person, Employee, Project
 # Create your views here.
 
@@ -15,5 +17,14 @@ def index_persons(request):
 def detailed_view(request, person_id):
     person = Person.objects.filter(pk=person_id).first()
     return render(request,
-                  'employees/employee_detail.html',
+                  'employees/person_detail.html',
                   {'person': person})
+
+
+class PersonList(ListView):
+    model = Person
+
+
+class PersonView(DetailView):
+    model = Person
+

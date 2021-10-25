@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <title>Employees</title></head><body><h1>Persons in project</h1><ul>    {% for person in object_list %}        <li><a href="{% url 'detail' pk=person.pk %}">{{ person.firstName }}</a></li>    {% endfor %}</ul></body></html>
