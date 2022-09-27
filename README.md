@@ -9,5 +9,5 @@
 4|Passed  :thumbsup:
 5|Passed  :heavy_check_mark:
 6|Passed  :dart:
-7|Waiting  :hourglass_flowing_sand:
-8|Waiting  :hourglass_flowing_sand:
+7|Passed  :thumbsup:
+8|Passed  :dart:
